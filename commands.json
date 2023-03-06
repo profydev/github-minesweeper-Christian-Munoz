@@ -1,3 +1,8 @@
 {
-  "commands": []
+  "commands": [
+    "flag A6",
+    "flag A7",
+    "flag A8",
+    "flag B7"
+  ]
 }
